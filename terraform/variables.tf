@@ -22,3 +22,7 @@ variable "environment" {
 variable "zone_name" {
   default = "daws76.space"
 }
+
+variable app_version {
+  
+}
